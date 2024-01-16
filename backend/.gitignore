@@ -1,0 +1,70 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# Maven
+target/
+mvnw
+.mvn/
+
+# Spring Boot
+*.log
+logs/
+build/
+classes/
+!**/application.properties
+!**/application.yml
+
+# IntelliJ IDEA
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Thumbnails
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Miscellaneous
+*.iml
+*.ipr
+*.iws
+*.swp
+*.jar
+*.war
+*.ear
+*.class
+
